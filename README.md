@@ -1,5 +1,8 @@
 # Hi I'm Hyoungwoo Lee👋
 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
 <!--
 **Leehyoungwoo/Leehyoungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
