@@ -5,6 +5,9 @@
 ### ⏬ME⏬
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlguddn3024@gmail.com)](mailto:dlguddn3024@gmail.com)
 
+  📖
+  2023-07-05 ~ ing
+
 
 
 
